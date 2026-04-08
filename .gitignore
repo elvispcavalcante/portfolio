@@ -1,0 +1,63 @@
+# ── Sistema Operacional ──────────────────────────────────
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ── Relatórios gerados automaticamente ──────────────────
+projetos/02-automacao-relatorios/relatorios_gerados/
+
+# ── Arquivos temporários do LibreOffice / Excel ──────────
+~$*.xlsx
+~$*.docx
+~$*.pptx
+.~lock.*#
+*.tmp
+
+# ── Dados sensíveis (nunca subir ao GitHub) ───────────────
+*.env
+secrets.json
+credenciais.*
+dados_reais/
+dados_sigilosos/
+cpf_real/
+
+# ── Editores e IDEs ───────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# ── Jupyter Notebooks (checkpoints) ──────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
+logs/
