@@ -163,9 +163,3 @@ Estou disponível para projetos freelance remotos. Entre em contato e receba uma
 | ✉️ E-mail | [elvispc@epcsolucoes.dev.br](mailto:elvispc@epcsolucoes.dev.br) |
 | 💬 WhatsApp | [Clique aqui](https://wa.me/5588999853824) |
 | 🌐 Workana | [Ver perfil](https://workana.com/freelancer/seulink) |
-
----
-
-<p align="center">
-  Feito por Elvis P.C. · 2026
-</p>
